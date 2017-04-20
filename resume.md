@@ -1,162 +1,111 @@
-Craig Buchek
-===========================================================================
+# AMOS KING
+## PROFILE
 
-craig@boochtek.com
+- **email**: amos@binarynoggin.com
+- **phone**: 573.263.2278
+## EXPERIENCE
+### OWNER/DEVELOPER, BINARY NOGGIN - ST. JAMES, MO AUGUST 2013-PRESENTWorking closely with customers in agile coaching, product development, and team augmentation. We believe in building amazing software through an understanding of the “why” in the product. We find this “why” through constant communication and trust. Using test driven development and continuous delivery of working software that exceeds expectations and provides constant value is our priority.
 
-314-374-5780
+#### Projects
 
-***************************************************************************
+##### Concordia Publishing House _2017_
 
+* Built and tested open source component to generate Powerpoint files
+* Mentor on Agile development practices
+* _tech_: Ruby, RSpec
 
-Summary
--------
+##### Procore _2015 - 2016_
 
-   * Software developer with 20 years of IT experience.
-   * Agile practitioner, with a focus on improving how teams work —
-     both their processes and their technical practices.
-   * Experienced Ruby on Rails web developer with strong DevOps skills.
+* Contributed to subsystems of large construction management platform
+  * Core
+  * Financial
+  * File processing and storage
+* Championed Agile Efforts
+  * Focus Driven Stories
+  * QA support
+  * Test Driven Development
+  * Retrospectives
+  * Constant Communication
+* Mentor Developers across the company
+  * Object Oriented Design
+  * Test Driven Development
+* Mentor QA
+  * Story splitting
+  * Technical understanding
+* _tech_: Ruby, Rails, Resque, SideKiq, RSpec, Elixir, PrincePDF
+     
+##### Mercy _2014 - 2016_
 
+* Contributed to rewrite of hospital/clinic patient portal
+* Maintained legacy patient portal
+* Write provider directory application for patients to find doctors
+  * developed in five weeks exceeding time a budget
+* Championed better development practices
+  * Test Driven Development
+  * Continuous Integration
+  * Code Review
+* Championed efforts to improve teams Agile practices
+  * Assessed current practices
+  * Recommended new practices
+  * Worked along side teams and utilized retrospectives to make changes
+* Managed one subcontractor
+* Mentored employees in software development and career improvement
+* _tech_: Ruby, Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
-Highlights
-----------
+##### Rolla Municipal Utilities _2014_
 
-   * Team lead, improving team processes and technical skills.
-   * Mentored developers in Agile methodologies and Java programming, in order
-     to bring developer jobs back to the USA.
-   * Consistently active member of local developer communities.
-   * Co-host of This Agile Life podcast.
-   * Frequent conference speaker.
+* Plan and develop SCADA monitoring for water and power
+* Connect to proprietary database system through native interfaces
+* _tech_: Ruby, FFI, Slim, RSpec
 
+##### Liaison _2013 - 2014_
 
-Professional Experience
------------------------
+* Championed Agile Development Practices
+  * Retrospectives
+  * Test Driven Development
+  * Focus Driven Stories
+  * Pair programming
+  * Continuous Integration
+  * Code Review
+* Managed a team of five subcontractors leading to successful multi-year contract
+* Transitioned one team member to full time employee
+* Improved and re-architected complex, legacy application
+  * Increase test coverage
+  * Increase performance
+  * Reduce Technical Debt
+* _tech_: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML, jQuery, Resque
+ 
+### PODCAST CO-HOST, THIS AGILE LIFE ST. LOUIS, MO AUGUST 2012-PRESENTI provide content, direction, and sound system setup for This Agile Life. I am also one of the on airpersonalities.
 
-**Engineering Manager / Software Engineer** at CenturyLink Cloud (2015 - present)
+### MEETUP ORGANIZER, STL ELIXIR - SAINT LOUIS, MO FEBRUARY 2017-PRESENT
+### MEETUP ORGANIZER, ROLLA RUBY - ROLLA, MO APRIL 2013-PRESENT### SENIOR RUBY DEVELOPER, THE ABLE FEW - ST. LOUIS, MO FEBRUARY 2013-AUG 2013I am responsible for growing the technical prowess and guiding ways to grow sustainable software while keeping customers delighted. I teach about software design, testing, and agile methodologies. I am also responsible for implementing customer requirements in software. This is a small company of nine employees and seven current projects. There are many challenges to being spread that thin so we all work on everything from design to implementation and deployment. My main technologies are Ruby, Rails, MySQL, Active::Record, Vagrant, Chef, SASS, HAML, Bootstrap, Bourbon, Neat, and whatever else is needed to get the job done.### MEETUP ORGANIZER, STL RUBY - ST. LOUIS, MO JANUARY 2012-PRESENTI do all the planning and most of the speaking at the Saint Louis Ruby Users’ Group. I really love beingable to teach and try to grow this group from the original incantation. We have been growing quite a bit and moved from one meeting a month to two. I’m currently in the process of trying to get more members to start doing some of the speaking.### SOFTWARE ENGINEER, ASYNCHRONY SOLUTIONS - ST. LOUIS, MO JULY 2007-FEBRUARY 2013Responsible for test driven development of Secure Naval Chat allowing XMPP, IRC, and an in housesecure chat protocol to be utilized on the same server while minimizing wire traffic and retaining chat history for later recall by the client. Also responsible for the client software and customer interaction while spending two trips aboard US Naval vessels. Utilized Java, Mina, and Eclipse RCP from **2007 - 2008**Developed internal Ruby on Rails application that handles accounting, project management, billing, employee management, time tracking, leave, etc. Responsible for keeping the site working with both Oracle and MySql. Utilized TestUnit, Shoulda, and Webrat for test driven development. Used Prototype for UJS. **2008 - 2009**Developed Spring MVC 3 application to help farmers maximize their profits through crop insurance and futures markets. Utilized Prototype and Low Pro for UJS. Worked with a legacy DB2 database. Instrumental in utilizing JRuby and Cucumber for UAT development, and spent time updating the
+activerecord-jdbc-adapter to correctly set id columns allowing utilization of ActiveRecord migrations. **2009 - 2009**
+Developed logistics management and planning software as portlets utilizing jQuery, Spring MVC 3 Portlet, and Liferay for United States Transportation Command(USTC) while serving as an integrated member of a Composite Agile Development Team brining Agile Development to the DOD. During this time I designed and developed a language to allow the end users to write their own data validations. The language was affectionately named RAmos and is still used today to facilitate in planning transportation requirements for USTC. December 2009 - September 2010Technical Lead/Developer for a social networking/data collecting site for users with type one diabetes and caregivers of type one diabetics. I lead the team through an indecisive customer with extreme deadlines while trying to keep team morale and code quality high. I acted as a developer at all times. Pairing with each developer throughout the entire process. We utilized Rails 3, MongoDB, HAML, SASS, RSpec, Cucumber and many other tools to ensure the product met and exceeded the customer’s expectations. **2010 - 2012**
+Joined a team that had been creating a new operating system utilizing Ubuntu as a base and python-gtk. When I joined the team they were writing few tests and struggling with their code base. There was also a very neglected Ruby on Rails and Mongo statistics server. I helped rewrite the sever to meet the expectations of the client and the team while adhering to strict BDD. Improving the overall customer happiness and the team’s confidence in the product. After only being on the team a few weeks, and with no prior python experience, I began being a team goto python developer. I pushed the team to utilize good OO design principles and testing practices in order to increase the code understandability. The testing also helped others become more familiar with python itself as it gave them the ability to better explore the language. **2012 - 2013**
+Develop and run the Software Apprenticeship program at Asynchrony. **2012 - 2013**
 
-   * Managed a team of 6, implementing WordPress as a cloud service.
-      * Boosted team productivity from 17 to 60 "points".
-   * Managed a team of 14, deploying Cloud Foundry clusters.
-   * Built a monitoring system for cloud servers.
-   * Promoted Agile practices within teams.
+### DEVELOPER, US POSTAL SERVICE - ST. LOUIS, MO MAY 2006 - JULY 2007Developed primarily using Java, Struts and Ibatis Critical in changing from Serena Changeman to Subversion as the RCS, and acted as Subversion admin for three teams, including one off site contracting team. Developed new pages and features for Logistics Control Management System(LCMS) Moved Dinero Seguro Admin application from COBOL and REXX to Java and Struts and added functionality to check for known and suspected terrorist with JNI to interact with DLLs.
 
-Tech Stack: Ruby, Sensu, Grape microservices, Docker, Ansible, Nginx, Bash, RabbitMQ
+### STUDENT DEVELOPER, US GEOLOGICAL SURVEY - ROLLA, MO APRIL 2005 - MAY 2006
 
-**Consultant / Software Engineer** at Mercy (2014 - 2016)
+Developed Java webservices with JDeveloper and Orcale to retrieve map fragments from USGS databases
 
-   * Contributed to rewrite of hospital system's patient portal.
-   * Maintained legacy patient portal through its end-of-life.
-   * Wrote provider directory application for patients to find doctors by specialty.
-      * Developed in 5 weeks, on time and on budget.
-   * Championed efforts to improve teams' Agile practices.
-      * Assessed existing practices, recommended and implemented process improvements.
+### DEVELOPER, QUANTIVERGE, INC - SPRINGFIELD, IL JANUARY 2006 - DECEMBER 2011
 
-Tech Stack: Ruby on Rails, Node, Angular, Java, Spring Roo, CoffeeScript
+Worked as a teacher and developer on a web application for insurance issuance and records. Developed with Ruby on Rails, jQuery, Cucumber, RSpec, and MySql.### TECHNICAL SERGEANT MISSOURI AIR NATIONAL GUARD - JEFFERSON BARRAKS, MO JUL 1999 - 2012Managed staff and produced training materials on common electronic troubleshooting and maintenance procedures. Installed and managed communications equipment, including upgrades, to support air power capabilities.Deployed in support of Operation Iraqi Freedom **April 2003 - August 2003**
 
-**Sr. Software Developer** at Liaison International (2013 - 2014)
+Awarded both the Missouri Commendation Medal and Two Air Force Commendation Medals
 
-   * Improved and re-architected a complex application
-      * Increased test coverage and reduced technical debt.
-   * Promoted Agile transformation efforts to increase team performance.
-      * Instituted retrospectives, pair programming, TDD, refactoring,
-        continuous integration, code reviews.
-      * Mentored teammates to improve their Ruby skills.
+Primary Specialty: Ground Radio and Satellite Communications Technician
+## EDUCATION* University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006## SKILLSRuby, Rails, Java, MySql, OS X, C/C++, Linux, DHTML, CSS, AJAX, 2006 Time Person of the Year# OPEN SOURCEHelped in starting development of gitjour at RailsConf 2008. Made commits to Rails, Shoulda, activerecord-jdbc-adapter, Git, Mongoid, Webrat, MongoDB Cookbook, and Rubygems. Worked on hardware libraries for the Tessel and GrovePi.
+# Links* [LinkedIn][linkedin]
+* [Github][github]
+* [Dirty Information][personal blog] # blog
+* [This Agile Life][podcast] #podcast
+* [Binary Noggin][business] # business
 
-Tech Stack: Ruby on Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML, jQuery,
-Resque
-
-**Cloud Engineer** at Express Scripts (2012 - 2013)
-
-   * Built an internal cloud infrastructure.
-      * Automated deployment of Java applications to cloud servers.
-   * Developed web interface to view information about web applications
-     deployed to the cloud.
-   * Coordinated with other development groups to advance the company
-     toward the strategic goal of utilizing the cloud infrastructure.
-
-Tech Stack: Python, Java, Bash shell, F5 load balancers
-
-**Sr. Software Developer** at Asynchrony Solutions (2010 - 2012)
-
-   * Designed, implemented, and deployed large-scale web applications.
-      * Social networking and data gathering site for patients with type 1
-        diabetes.
-         * Provisioned load-balanced servers for 200,000 concurrent users.
-         * Assisted with system administration and configuration management
-           tasks.
-      * Asset management system for a large company (12 million digital
-       assets).
-      * Developed, maintained, and documented APIs for several mobile client
-       applications.
-   * Practiced Agile/Lean methodologies: pair programming, Kanban, acceptance
-     testing, TDD, BDD, refactoring, continuous integration, retrospectives.
-   * Traveled to and consulted at a large corporation (7000 employees) to
-     teach their developers how to implement Agile practices.
-      * Implemented pair programming, Kanban, TDD, refactoring, continuous
-        integration.
-      * Mentored them to improve their Java skills.
-   * Adopted architectural practices more amenable to large-scale use with
-     Rails.
-
-Tech Stack: Ruby on Rails, MongoDB, ElasticSearch, Devise, HAML, SASS, Spine,
-CoffeeScript, Capybara, Cucumber, RSpec, Jasmine, Java, Cucumber-JVM, Selenium,
-Jenkins, JUnit
-
-**Consultant / Web Developer** at BoochTek, LLC (2006 - present)
-
-   * Consulting services, implementing and upgrading web sites.
-   * Guided companies with technical and process improvements.
-   * Designed and implemented web applications for small businesses and
-     non-profits.
-      * Social networking hub, integrated with other social networking sites.
-      * Management system to track tutoring sessions.
-      * Conversion of Access application for aggregating feedback forms.
-      * Online sales quote system.
-      * Web forms for non-profit companies.
-   * Provided bug fixes and feature updates to existing web applications.
-      * Reduced code size and complexity to simplify on-going site maintenance.
-   * Established bug tracking and feature request procedures and sites for
-     customers.
-   * Implemented source code revision control and deployment best practices to
-     easily add features to production sites, with ability to back out changes
-     quickly if necessary.
-
-Tech Stack: Ruby on Rails, RSpec, PHP
-
-
-Education and Training
-----------------------
-
-   * Rose-Hulman Institute of Technology (Terre Haute, IN) -
-     Computer Science major
-
-   * Pragmatic Programmers Advanced Rails - 2007
-   * Strange Loop
-      * Hadoop - 2012
-      * Idris - 2015
-      * Elixir Phoenix - 2015
-
-
-Community Involvement
----------------------
-
-   * This Agile Life podcast - Co-host
-   * Roy Clay Sr. Tech Impact program - Instructor, Mentor
-   * STL Ruby - Active member, Host
-   * STL Elm - Founder, Host
-   * STL Polyglots - Co-founder, Host
-   * STLLUG - Member, Chairman (2001-2014)
-   * SLUUG - Member, Board of Directors (2001-2004, 2007-2013), Secretary (2004-2015)
-
-
-Conferences
------------
-
-   * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter)
-   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016
-   * Agile Alliance Technical Conference - 2017 (presenter)
-   * Madison+ Ruby - 2015 (presenter)
-   * Windy City Rails - 2015
-   * Midwest Ruby Conference - 2011
-   * Strange Loop - 2011, 2012, 2013, 2015
-   * RacketCon - 2015, 2016
-   * Elm-Conf - 2016
+[linkedin]: https://www.linkedin.com/in/amosking/
+[github]: http://github.com/adkron
+[personal blog]: http://dirtyinformation.com
+[business]: http://binarynoggin.com
+[podcast]: http://thisagilelife.com
