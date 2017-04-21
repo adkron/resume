@@ -41,7 +41,12 @@ record in developing trust with customers and within teams.
 
 ### owner/developer, Binary Noggin - St. James, MO August 2013 - Present
 
-Working closely with customers in agile coaching, product development, and team augmentation. We believe in building amazing software through an understanding of the “why” in the product. We find this “why” through constant communication and trust. Using test driven development and continuous delivery of working software that exceeds expectations and provides constant value is our priority.
+Working closely with customers in agile coaching, product development, and
+team augmentation. We believe in building amazing software through an
+understanding of the “why” in the product. We find this “why” through
+constant communication and trust. Using test driven development and
+continuous delivery of working software that exceeds expectations and
+provides constant value is our priority.
 
 #### Projects
 
@@ -55,35 +60,32 @@ Working closely with customers in agile coaching, product development, and team 
 
 * Contributed to subsystems of large construction management platform
 * Championed Agile Efforts
-* Mentored Developers across the company
-* Mentored QA
-* _tech_: Ruby, Rails, Resque, SideKiq, RSpec, Elixir, PrincePDF, PostgreSQL
+* Mentored Developers and QA
+* _tech_: Ruby, Rails, Resque, SideKiq, RSpec, Elixir, PrincePDF, PostgreSQL, Elixir
 
 ##### Mercy _2014 - 2016_
 
 * Contributed to rewrite of hospital/clinic patient portal
 * Maintained legacy patient portal
 * Wrote provider directory application for patients to find doctors
-* Championed better development practices
-* Championed efforts to improve teams Agile practices
+* Advocated better development practices
+* Promoted efforts to improve teams Agile practices
 * _tech_: Ruby, Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
 ##### Rolla Municipal Utilities _2014_
 
 * Planned and developed SCADA monitoring for water and power
-* Connected to proprietary database system through native interfaces with little to no documentation
 * _tech_: Ruby, FFI, Slim, RSpec
 
 ##### Liaison _2013 - 2014_
 
-* Championed Agile Development Practices
+* Increased velocity and quality
 * Managed a team of five subcontractors leading to successful multi-year contract
-* Improved and re-architected complex, legacy application
 * _tech_: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML, jQuery, Resque
 
 ### senior ruby developer, The Able Few - St. Louis, MO February 2013 - August 2013
 
-* Championed better development practices
+* Introduced better development practices
 * _tech_: Ruby, Rails, MySQL, Vagrant, Chef, SASS, HAML, Bootstrap, Bourbon, Neat, and more
 
 ### software engineer, Asynchrony Solutions - St. Louis, MO July 2007 - February 2013
@@ -96,43 +98,28 @@ Working closely with customers in agile coaching, product development, and team 
 * Championed Good Technical Practices
 * _tech_: Ruby, Rails, Python, GTK, Webkit
 
-##### Software Apprenticeship Program _2012 - 2013_
+##### Software Apprenticeship Program Lead _2012 - 2013_
 
 * Pitched and Implemented
-* Implemented program with first apprentice
 
-##### T1D - myglu.org _2010-2012
+##### T1D - myglu.org _2010-2012_
 
 * Technical Lead
 * _tech_: Ruby, Rails, MongoDB, HAML, SASS, RSpec, Cucumber, and many other tools
 
 ##### Logistics Management - US Transportation Command - US Air Force _2009 - 2010_
 
-* Integrated with other contractors
-* Designed and developed RAmos a validation programming language
-* Guided team members on military protocols to ensure successful relationship to customers
-* _tech_: jQuery, Spring MVC Portlet, Liferay, Java
-
 ##### FPAD _2009 - 2009_
 
-* Built UAT framework utilizing Cucumber
-* Build data migration framework
-  * updated activerecord-jdbc-adapter to support
 * _tech_: Sprign MVC, JS, Java, JRuby, Cucumber, activerecord-jdbc-adapter
 
 ##### ACE _2008 - 2009_
 
-* Helped design and implement large, complex agile management software
-* championed a rewrite of PTO portion increasing performance and reliability
 * _tech_: Oracle, MySQL, TestUnit, Shoula, Webrat, Javascript
 
 ##### Mako Navy Chat _2007 - 2008_
 
-* Championed one hour pair switching
-* Supported multiple chat protocols
-* Helped design and implement Mako protocol
-* Helped develop both server and client
-* Customer Liason and software tester on board
+* Customer liaison and software tester on board
   * USS Rodney M Davis - frigate _2008_
   * USS Alexandria - Nuclear Fast Attack Submarine _2009_
 * _tech_: Java, Mina, Eclipse RCP
