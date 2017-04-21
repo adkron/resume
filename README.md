@@ -5,10 +5,9 @@ Thanks for taking a look at my résumé.
 You're probably here to grab a copy in one of these formats:
 
   * [HTML](https://rawgit.com/adkron/resume/master/resume.html)
-  * [PDF](https://rawgit.com/adkron/resume/master/resume.pdf)
   * [text](https://raw.githubusercontent.com/adkron/resume/master/resume.txt)
 
--- Craig Buchek
+-- Amos King
 
 
 Why
