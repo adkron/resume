@@ -37,10 +37,10 @@ record in developing trust with customers and within teams.
 
 I work closely with customers as Agile practitioners to improve teams
 and products.  I believe in building amazing software through an
-understanding of the “why” in the product. We find this “why” through
+understanding of the “why” in the product. I find this “why” through
 constant communication and trust. Using test driven development and
 continuous delivery of working software that exceeds expectations and
-provides constant value is our priority.
+provides constant value is my priority.
 
 #### Projects
 
