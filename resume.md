@@ -35,8 +35,8 @@ record in developing trust with customers and within teams.
 
 ### owner/developer, Binary Noggin - St. James, MO August 2013 - Present
 
-Working closely with customers as Agile practitioners to improve teams
-and products.  We believe in building amazing software through an
+I work closely with customers as Agile practitioners to improve teams
+and products.  I believe in building amazing software through an
 understanding of the “why” in the product. We find this “why” through
 constant communication and trust. Using test driven development and
 continuous delivery of working software that exceeds expectations and
@@ -75,9 +75,9 @@ provides constant value is our priority.
 * Managed a team of five subcontractors leading to successful multi-year contract
 * _tech_: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML, jQuery, Resque
 
-### senior ruby developer, The Able Few - St. Louis, MO February 2013 - August 2013
+### The Able Few, Senior Ruby Developer - St. Louis, MO February 2013 - August 2013
 
-### software engineer, Asynchrony Solutions - St. Louis, MO July 2007 - February 2013
+### Asynchrony Solutions, Lead Software Engineer - St. Louis, MO July 2007 - February 2013
 
 #### Select Projects
 
@@ -143,7 +143,7 @@ provides constant value is our priority.
   * backpack-ht16k33 - JS library for LED matrix for Tessel
   * Riposte - rubygem
 * Contributor
-  * Elixir | ElixirALE | Phoenix
+  * Elixir, ElixirALE, Phoenix
 
 [LinkedIn][linkedin] | [Github][github] | [Blog][personal blog]
 
