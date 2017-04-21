@@ -28,11 +28,6 @@ record in developing trust with customers and within teams.
 
 ---
 
-    ...energetic...passionate...leadership role in both technical issues
-    and meetings - Paul Altimonte
-
----
-
     Amos is an inspiring leader and exceptional personal contributor. -
     Oz DiGennro
 
@@ -41,8 +36,8 @@ record in developing trust with customers and within teams.
 
 ### owner/developer, Binary Noggin - St. James, MO August 2013 - Present
 
-Working closely with customers in agile coaching, product development, and
-team augmentation. We believe in building amazing software through an
+Working closely with customers as Agile practitioners to improve teams
+and products.  We believe in building amazing software through an
 understanding of the “why” in the product. We find this “why” through
 constant communication and trust. Using test driven development and
 continuous delivery of working software that exceeds expectations and
@@ -59,8 +54,7 @@ provides constant value is our priority.
 ##### Procore _2015 - 2016_
 
 * Contributed to subsystems of large construction management platform
-* Championed Agile Efforts
-* Mentored Developers and QA
+* Mentored Developers and QA in Agile and dev practices
 * _tech_: Ruby, Rails, Resque, SideKiq, RSpec, Elixir, PrincePDF, PostgreSQL, Elixir
 
 ##### Mercy _2014 - 2016_
@@ -68,14 +62,13 @@ provides constant value is our priority.
 * Contributed to rewrite of hospital/clinic patient portal
 * Maintained legacy patient portal
 * Wrote provider directory application for patients to find doctors
-* Advocated better development practices
-* Promoted efforts to improve teams Agile practices
+* Advocated better development and Agile practices
 * _tech_: Ruby, Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
 ##### Rolla Municipal Utilities _2014_
 
 * Planned and developed SCADA monitoring for water and power
-* _tech_: Ruby, FFI, Slim, RSpec
+* _tech_: Ruby, Ruby-FFI, Slim, RSpec
 
 ##### Liaison _2013 - 2014_
 
@@ -85,39 +78,25 @@ provides constant value is our priority.
 
 ### senior ruby developer, The Able Few - St. Louis, MO February 2013 - August 2013
 
-* Introduced better development practices
-* _tech_: Ruby, Rails, MySQL, Vagrant, Chef, SASS, HAML, Bootstrap, Bourbon, Neat, and more
-
 ### software engineer, Asynchrony Solutions - St. Louis, MO July 2007 - February 2013
 
-#### Projects
+#### Select Projects
 
-##### Endless Mobile _2012 - 2013_
+##### Software Apprenticeship Program, Creator _2012 - 2013_
 
-* Developed OS for micro computer
-* Championed Good Technical Practices
-* _tech_: Ruby, Rails, Python, GTK, Webkit
+##### T1D - myglu.org, Tech Lead/Team manager _2010-2012_
 
-##### Software Apprenticeship Program Lead _2012 - 2013_
-
-* Pitched and Implemented
-
-##### T1D - myglu.org _2010-2012_
-
-* Technical Lead
 * _tech_: Ruby, Rails, MongoDB, HAML, SASS, RSpec, Cucumber, and many other tools
 
-##### Logistics Management - US Transportation Command - US Air Force _2009 - 2010_
+##### Logistics Management - US Transportation Command - US Air Force, Senior Developer _2009 - 2010_
 
-##### FPAD _2009 - 2009_
+* _tech_: Java, RAmos
 
-* _tech_: Sprign MVC, JS, Java, JRuby, Cucumber, activerecord-jdbc-adapter
-
-##### ACE _2008 - 2009_
+##### ACE, Senior Developer _2008 - 2009_
 
 * _tech_: Oracle, MySQL, TestUnit, Shoula, Webrat, Javascript
 
-##### Mako Navy Chat _2007 - 2008_
+##### Mako Navy Chat, Developer and Customer liaison _2007 - 2008_
 
 * Customer liaison and software tester on board
   * USS Rodney M Davis - frigate _2008_
@@ -125,59 +104,49 @@ provides constant value is our priority.
 * _tech_: Java, Mina, Eclipse RCP
 
 
-### developer, US Postal Service - St. Louis, MO May 2006 - July 2007
+###### Long Long Ago
 
-### student developer, US Geological Survey - Rolla, MO April 2005 - May 2006
+* developer, US Postal Service - St. Louis, MO May 2006 - July 2007
+* student developer, US Geological Survey - Rolla, MO April 2005 - May 2006
+* developer, Quantiverge, Inc - Springfield, IL January 2006 - December 2011
+* technical sergeant, Missouri Air National Guard - Jefferson Barracks, MO July 1999 - July 2012
+  * Managed Staff
+  * Produced training materials
+  * Installed and Managed Equipment
+  * Deployed in support of Operation Iraqi Freedom April 2003 - August 2003
+  * Ground Radio and Satellite Communications Technician
 
-### developer, Quantiverge, Inc - Springfield, IL January 2006 - December 2011
-
-### technical sergeant, Missouri Air National Guard - Jefferson Barraks, MO July 1999 - July 2012
-
-* Managed Staff
-* Produced trainging materials
-* Installed and Managed Equipment
-* Deployed in support of Operation Iraqi Freedom April 2003 - August 2003
-* Ground Radio and Satellite Communications Technician
-
-## EDUCATION
+--- Education
 
 * University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006
 
-## AWARDS
+--- Awards
 
   * Missouri Commendation Medal
   * Air Force Commendation Medal x 2
   * 2006 Time Person of the Year
 
-## EXTRAS
+--- Speaking
 
-### PODCAST CO-HOST, THIS AGILE LIFE ST. LOUIS, MO AUGUST 2012-PRESENT
+* ElixirDaze 2017 - Live Like a Hippy
+* Ruby Remote Conf 2015 - The Route Less Traveled
 
-### organizer, STL Elixir - Saint Louis, MO February 2017 - Present
+--- Extras
 
-### organizer, STL Ruby - St. Louis, MO January 2012 - Present
+* podcast co-host, [This Agile Life][podcast] St. Louis, MO August 2012 - Present
+* organizer, STL Elixir - Saint Louis, MO February 2017 - Present
+* organizer, STL Ruby - St. Louis, MO January 2012 - Present
 
-## OPEN SOURCE
+--- Open source
 
 * Maintainer
   * GrovePi - Elixir hardware library
   * backpack-ht16k33 - JS library for LED matrix for Tessel
   * Riposte - rubygem
 * Contributor
-  * Elixir
-  * ElixirALE
-  * Phoenix
-  * Rubygems
-  * Rails
-  * Git
+  * Elixir | ElixirALE | Phoenix
 
-## Links
-
-* [LinkedIn][linkedin]
-* [Github][github]
-* Blog: [Dirty Information][personal blog]
-* Podcast: [This Agile Life][podcast]
-* Business: [Binary Noggin][business]
+[LinkedIn][linkedin] | [Github][github] | [Blog][personal blog]
 
 [linkedin]: https://www.linkedin.com/in/amosking/
 [github]: http://github.com/adkron
