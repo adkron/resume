@@ -14,17 +14,25 @@ record in developing trust with customers and within teams.
 
     ...natural mentor and leader, and I feel honored to have learned from
     him. - Leah Russel
--
+
+---
+
     ...humble and approachable...invests time in making me better at
     my job - Martina Vassileva
--
+
+---
+
     I also value his ideas for working as a team and for great
     communication. Our conversations motivate me to be a better coder
     and a better person, and provide the tools to do so. - Melch Chun
--
+
+---
+
     ...energetic...passionate...leadership role in both technical issues
     and meetings - Paul Altimonte
--
+
+---
+
     Amos is an inspiring leader and exceptional personal contributor. -
     Oz DiGennro
 
