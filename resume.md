@@ -121,8 +121,6 @@ Develop and run the Software Apprenticeship program at Asynchrony. **2012 - 2013
 
 ### developer, US Postal Service - St. Louis, MO May 2006 - July 2007
 
-Developed primarily using Java, Struts and Ibatis Critical in changing from Serena Changeman to Subversion as the RCS, and acted as Subversion admin for three teams, including one off site contracting team. Developed new pages and features for Logistics Control Management System(LCMS) Moved Dinero Seguro Admin application from COBOL and REXX to Java and Struts and added functionality to check for known and suspected terrorist with JNI to interact with DLLs.
-
 ### student developer, US Geological Survey - Rolla, MO April 2005 - May 2006
 
 ### developer, Quantiverge, Inc - Springfield, IL January 2006 - December 2011
@@ -141,8 +139,11 @@ Primary Specialty: Ground Radio and Satellite Communications Technician
 
 * University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006
 
-## SKILLS
-Ruby, Rails, Java, MySQL, OS X, C/C++, Linux, DHTML, CSS, AJAX, 2006 Time Person of the Year
+## AWARDS
+
+  * Missouri Commendation Medal
+  * Air Force Commendation Medal x 2
+  * 2006 Time Person of the Year
 
 ## OPEN SOURCE
 
