@@ -100,9 +100,9 @@ Primary Specialty: Ground Radio and Satellite Communications Technician
 ## EDUCATION* University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006## SKILLSRuby, Rails, Java, MySQL, OS X, C/C++, Linux, DHTML, CSS, AJAX, 2006 Time Person of the Year# OPEN SOURCEHelped in starting development of gitjour at RailsConf 2008. Made commits to Rails, Shoulda, activerecord-jdbc-adapter, Git, Mongoid, Webrat, MongoDB Cookbook, and Rubygems. Worked on hardware libraries for the Tessel and GrovePi.
 # Links* [LinkedIn][linkedin]
 * [Github][github]
-* [Dirty Information][personal blog] # blog
-* [This Agile Life][podcast] #podcast
-* [Binary Noggin][business] # business
+* Blog: [Dirty Information][personal blog]
+* Podcast: [This Agile Life][podcast]
+* Business: [Binary Noggin][business]
 
 [linkedin]: https://www.linkedin.com/in/amosking/
 [github]: http://github.com/adkron
