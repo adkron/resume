@@ -33,7 +33,7 @@ record in developing trust with customers and within teams.
 
 ## WORK
 
-### owner/developer, Binary Noggin - St. James, MO August 2013 - Present
+### Binary Noggin, Owner/Developer - St. James, MO August 2013 - Present
 
 I work closely with customers as Agile practitioners to improve teams
 and products.  I believe in building amazing software through an
