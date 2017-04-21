@@ -1,9 +1,8 @@
 # AMOS KING
 
-- email: amos@binarynoggin.com
-- phone: 573.263.2278
+###### _amos@binarynoggin.com_ _573.263.2278_
 
-# Agile Practitioner | Thought Leader | Web and Embedded Developer
+## Agile Practitioner | Thought Leader | Web & Embedded Dev
 
 Agile software developer with 10+ years of success working with and
 leading teams to develop quality software under changing requirements.
