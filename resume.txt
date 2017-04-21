@@ -46,21 +46,9 @@ Working closely with customers in agile coaching, product development, and team 
 ##### Procore _2015 - 2016_
 
 * Contributed to subsystems of large construction management platform
-  * Core
-  * Financial
-  * File processing and storage
 * Championed Agile Efforts
-  * Focus Driven Stories
-  * QA support
-  * Test Driven Development
-  * Retrospectives
-  * Constant Communication
 * Mentored Developers across the company
-  * Object Oriented Design
-  * Test Driven Development
 * Mentored QA
-  * Story splitting
-  * Technical understanding
 * _tech_: Ruby, Rails, Resque, SideKiq, RSpec, Elixir, PrincePDF, PostgreSQL
 
 ##### Mercy _2014 - 2016_
@@ -68,17 +56,8 @@ Working closely with customers in agile coaching, product development, and team 
 * Contributed to rewrite of hospital/clinic patient portal
 * Maintained legacy patient portal
 * Wrote provider directory application for patients to find doctors
-  * developed in five weeks exceeding time a budget
 * Championed better development practices
-  * Test Driven Development
-  * Continuous Integration
-  * Code Review
 * Championed efforts to improve teams Agile practices
-  * Assessed current practices
-  * Recommended new practices
-  * Worked along side teams and utilized retrospectives to make changes
-* Managed one subcontractor
-* Mentored employees in software development and career improvement
 * _tech_: Ruby, Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
 ##### Rolla Municipal Utilities _2014_
@@ -90,26 +69,13 @@ Working closely with customers in agile coaching, product development, and team 
 ##### Liaison _2013 - 2014_
 
 * Championed Agile Development Practices
-  * Retrospectives
-  * Test Driven Development
-  * Focus Driven Stories
-  * Pair programming
-  * Continuous Integration
-  * Code Review
 * Managed a team of five subcontractors leading to successful multi-year contract
-* Transitioned one team member to full time employee
 * Improved and re-architected complex, legacy application
-  * Increase test coverage
-  * Increase performance
-  * Reduce Technical Debt
 * _tech_: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML, jQuery, Resque
 
 ### senior ruby developer, The Able Few - St. Louis, MO February 2013 - August 2013
 
 * Championed better development practices
-  * Software Design
-  * TDD
-  * Agile
 * _tech_: Ruby, Rails, MySQL, Vagrant, Chef, SASS, HAML, Bootstrap, Bourbon, Neat, and more
 
 ### software engineer, Asynchrony Solutions - St. Louis, MO July 2007 - February 2013
@@ -120,8 +86,6 @@ Working closely with customers in agile coaching, product development, and team 
 
 * Developed OS for micro computer
 * Championed Good Technical Practices
-  * TDD & BDD
-  * OO Design principles
 * _tech_: Ruby, Rails, Python, GTK, Webkit
 
 ##### Software Apprenticeship Program _2012 - 2013_
@@ -132,10 +96,6 @@ Working closely with customers in agile coaching, product development, and team 
 ##### T1D - myglu.org _2010-2012
 
 * Technical Lead
-  * Set standards for code quality
-  * Set standards for team practices
-  * Guided customer
-  * Managed customer expectations
 * _tech_: Ruby, Rails, MongoDB, HAML, SASS, RSpec, Cucumber, and many other tools
 
 ##### Logistics Management - US Transportation Command - US Air Force _2009 - 2010_
@@ -149,36 +109,20 @@ Working closely with customers in agile coaching, product development, and team 
 
 * Built UAT framework utilizing Cucumber
 * Build data migration framework
-  * utilized active record
   * updated activerecord-jdbc-adapter to support
-* _tech_: Sprign MVC, JS, Java, JRuby, Cucumber, activerecord-jdbc
+* _tech_: Sprign MVC, JS, Java, JRuby, Cucumber, activerecord-jdbc-adapter
 
 ##### ACE _2008 - 2009_
 
-* Helped design and implement
- * accounting
- * project management
- * billing
- * employee management
- * time tracking
- * and more
-* championed a rewrite of PTO portion
-  * less code
-  * improved performance
-  * improved stability
+* Helped design and implement large, complex agile management software
+* championed a rewrite of PTO portion increasing performance and reliability
 * _tech_: Oracle, MySQL, TestUnit, Shoula, Webrat, Javascript
 
 ##### Mako Navy Chat _2007 - 2008_
 
 * Championed one hour pair switching
 * Supported multiple chat protocols
-  * IRC
-  * XMPP
-  * Mako
 * Helped design and implement Mako protocol
-  * secure
-  * minimal
-  * fault tolerant
 * Helped develop both server and client
 * Customer Liason and software tester on board
   * USS Rodney M Davis - frigate _2008_
