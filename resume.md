@@ -98,9 +98,9 @@ Awarded both the Missouri Commendation Medal and Two Air Force Commendation Meda
 
 Primary Specialty: Ground Radio and Satellite Communications Technician
 ## EDUCATION* University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006## SKILLSRuby, Rails, Java, MySQL, OS X, C/C++, Linux, DHTML, CSS, AJAX, 2006 Time Person of the Year# OPEN SOURCE* Maintainer
-  * Riposte - rubygem
   * GrovePi - Elixir hardware library
   * backpack-ht16k33 - JS library for LED matrix for Tessel
+  * Riposte - rubygem
 * Contributor
   * Elixir
   * ElixirALE
