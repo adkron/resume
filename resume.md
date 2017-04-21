@@ -1,10 +1,13 @@
 # AMOS KING
-## PROFILE
 
 - **email**: amos@binarynoggin.com
 - **phone**: 573.263.2278
-## EXPERIENCE
-### OWNER/DEVELOPER, BINARY NOGGIN - ST. JAMES, MO AUGUST 2013-PRESENTWorking closely with customers in agile coaching, product development, and team augmentation. We believe in building amazing software through an understanding of the “why” in the product. We find this “why” through constant communication and trust. Using test driven development and continuous delivery of working software that exceeds expectations and provides constant value is our priority.
+
+## EXPERIENCE
+
+### owner/developer, Binary Noggin - St. James, MO August 2013 - Present
+
+Working closely with customers in agile coaching, product development, and team augmentation. We believe in building amazing software through an understanding of the “why” in the product. We find this “why” through constant communication and trust. Using test driven development and continuous delivery of working software that exceeds expectations and provides constant value is our priority.
 
 #### Projects
 
@@ -33,7 +36,7 @@
   * Story splitting
   * Technical understanding
 * _tech_: Ruby, Rails, Resque, SideKiq, RSpec, Elixir, PrincePDF, PostgreSQL
-     
+
 ##### Mercy _2014 - 2016_
 
 * Contributed to rewrite of hospital/clinic patient portal
@@ -74,14 +77,17 @@
   * Increase performance
   * Reduce Technical Debt
 * _tech_: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML, jQuery, Resque
- 
-### PODCAST CO-HOST, THIS AGILE LIFE ST. LOUIS, MO AUGUST 2012-PRESENT
+
+
+### PODCAST CO-HOST, THIS AGILE LIFE ST. LOUIS, MO AUGUST 2012-PRESENT
 
 * Content direction
 * Technical setup
 * On air personality
 
-### MEETUP ORGANIZER, STL ELIXIR - SAINT LOUIS, MO FEBRUARY 2017-PRESENT### SENIOR RUBY DEVELOPER, THE ABLE FEW - ST. LOUIS, MO FEBRUARY 2013-AUG 2013
+### meetup organizer, STL Elixir - Saint Louis, MO February 2017 - Present
+
+### senior ruby developer, The Able Few - St. Louis, MO February 2013 - August 2013
 
 * Championed better development practices
   * Software Design
@@ -92,26 +98,55 @@
   * Implement
   * Deploy
   * Plan
-* _tech_: Ruby, Rails, MySQL, Vagrant, Chef, SASS, HAML, Bootstrap, Bourbon, Neat, and whatever else is needed to get the job done.### MEETUP ORGANIZER, STL RUBY - ST. LOUIS, MO JANUARY 2012-PRESENT### SOFTWARE ENGINEER, ASYNCHRONY SOLUTIONS - ST. LOUIS, MO JULY 2007-FEBRUARY 2013Responsible for test driven development of Secure Naval Chat allowing XMPP, IRC, and an in house secure chat protocol to be utilized on the same server while minimizing wire traffic and retaining chat history for later recall by the client. Also responsible for the client software and customer interaction while spending two trips aboard US Naval vessels. Utilized Java, Mina, and Eclipse RCP from **2007 - 2008**Developed internal Ruby on Rails application that handles accounting, project management, billing, employee management, time tracking, leave, etc. Responsible for keeping the site working with both Oracle and MySQL. Utilized TestUnit, Shoulda, and Webrat for test driven development. Used Prototype for UJS. **2008 - 2009**Developed Spring MVC 3 application to help farmers maximize their profits through crop insurance and futures markets. Utilized Prototype and Low Pro for UJS. Worked with a legacy DB2 database. Instrumental in utilizing JRuby and Cucumber for UAT development, and spent time updating the
+* _tech_: Ruby, Rails, MySQL, Vagrant, Chef, SASS, HAML, Bootstrap, Bourbon, Neat, and whatever else is needed to get the job done.
+
+### meetup organizer, STL Ruby - St. Louis, MO January 2012 - Present
+
+### software engineer, Asynchrony Solutions - St. Louis, MO July 2007 - February 2013
+
+Responsible for test driven development of Secure Naval Chat allowing XMPP, IRC, and an in house secure chat protocol to be utilized on the same server while minimizing wire traffic and retaining chat history for later recall by the client. Also responsible for the client software and customer interaction while spending two trips aboard US Naval vessels. Utilized Java, Mina, and Eclipse RCP from **2007 - 2008**
+
+Developed internal Ruby on Rails application that handles accounting, project management, billing, employee management, time tracking, leave, etc. Responsible for keeping the site working with both Oracle and MySQL. Utilized TestUnit, Shoulda, and Webrat for test driven development. Used Prototype for UJS. **2008 - 2009**
+
+Developed Spring MVC 3 application to help farmers maximize their profits through crop insurance and futures markets. Utilized Prototype and Low Pro for UJS. Worked with a legacy DB2 database. Instrumental in utilizing JRuby and Cucumber for UAT development, and spent time updating the
 activerecord-jdbc-adapter to correctly set id columns allowing utilization of ActiveRecord migrations. **2009 - 2009**
-Developed logistics management and planning software as portlets utilizing jQuery, Spring MVC 3 Portlet, and Liferay for United States Transportation Command(USTC) while serving as an integrated member of a Composite Agile Development Team brining Agile Development to the DOD. During this time I designed and developed a language to allow the end users to write their own data validations. The language was affectionately named RAmos and is still used today to facilitate in planning transportation requirements for USTC. December 2009 - September 2010Technical Lead/Developer for a social networking/data collecting site for users with type one diabetes and caregivers of type one diabetics. I lead the team through an indecisive customer with extreme deadlines while trying to keep team morale and code quality high. I acted as a developer at all times. Pairing with each developer throughout the entire process. We utilized Rails 3, MongoDB, HAML, SASS, RSpec, Cucumber and many other tools to ensure the product met and exceeded the customer’s expectations. **2010 - 2012**
-Joined a team that had been creating a new operating system utilizing Ubuntu as a base and python-gtk. When I joined the team they were writing few tests and struggling with their code base. There was also a very neglected Ruby on Rails and Mongo statistics server. I helped rewrite the sever to meet the expectations of the client and the team while adhering to strict BDD. Improving the overall customer happiness and the team’s confidence in the product. After only being on the team a few weeks, and with no prior python experience, I began being a team goto python developer. I pushed the team to utilize good OO design principles and testing practices in order to increase the code understandability. The testing also helped others become more familiar with python itself as it gave them the ability to better explore the language. **2012 - 2013**
-Develop and run the Software Apprenticeship program at Asynchrony. **2012 - 2013**
 
-### DEVELOPER, US POSTAL SERVICE - ST. LOUIS, MO MAY 2006 - JULY 2007Developed primarily using Java, Struts and Ibatis Critical in changing from Serena Changeman to Subversion as the RCS, and acted as Subversion admin for three teams, including one off site contracting team. Developed new pages and features for Logistics Control Management System(LCMS) Moved Dinero Seguro Admin application from COBOL and REXX to Java and Struts and added functionality to check for known and suspected terrorist with JNI to interact with DLLs.
+Developed logistics management and planning software as portlets utilizing jQuery, Spring MVC 3 Portlet, and Liferay for United States Transportation Command(USTC) while serving as an integrated member of a Composite Agile Development Team brining Agile Development to the DOD. During this time I designed and developed a language to allow the end users to write their own data validations. The language was affectionately named RAmos and is still used today to facilitate in planning transportation requirements for USTC. **December 2009 - September 2010**
 
-### STUDENT DEVELOPER, US GEOLOGICAL SURVEY - ROLLA, MO APRIL 2005 - MAY 2006
+Technical Lead/Developer for a social networking/data collecting site for users with type one diabetes and caregivers of type one diabetics. I lead the team through an indecisive customer with extreme deadlines while trying to keep team morale and code quality high. I acted as a developer at all times. Pairing with each developer throughout the entire process. We utilized Rails 3, MongoDB, HAML, SASS, RSpec, Cucumber and many other tools to ensure the product met and exceeded the customer’s expectations. **2010 - 2012**
 
-Developed Java webservices with JDeveloper and Orcale to retrieve map fragments from USGS databases
+Joined a team that had been creating a new operating system utilizing Ubuntu as a base and python-gtk. When I joined the team they were writing few tests and struggling with their code base. There was also a very neglected Ruby on Rails and Mongo statistics server. I helped rewrite the sever to meet the expectations of the client and the team while adhering to strict BDD. Improving the overall customer happiness and the team’s confidence in the product. After only being on the team a few weeks, and with no prior python experience, I began being a team goto python developer. I pushed the team to utilize good OO design principles and testing practices in order to increase the code understandability. The testing also helped others become more familiar with python itself as it gave them the ability to better explore the language. **2012 - 2013**
 
-### DEVELOPER, QUANTIVERGE, INC - SPRINGFIELD, IL JANUARY 2006 - DECEMBER 2011
+Develop and run the Software Apprenticeship program at Asynchrony. **2012 - 2013**
 
-Worked as a teacher and developer on a web application for insurance issuance and records. Developed with Ruby on Rails, jQuery, Cucumber, RSpec, and MySQL.### TECHNICAL SERGEANT MISSOURI AIR NATIONAL GUARD - JEFFERSON BARRAKS, MO JUL 1999 - 2012Managed staff and produced training materials on common electronic troubleshooting and maintenance procedures. Installed and managed communications equipment, including upgrades, to support air power capabilities.Deployed in support of Operation Iraqi Freedom **April 2003 - August 2003**
+### developer, US Postal Service - St. Louis, MO May 2006 - July 2007
+
+Developed primarily using Java, Struts and Ibatis Critical in changing from Serena Changeman to Subversion as the RCS, and acted as Subversion admin for three teams, including one off site contracting team. Developed new pages and features for Logistics Control Management System(LCMS) Moved Dinero Seguro Admin application from COBOL and REXX to Java and Struts and added functionality to check for known and suspected terrorist with JNI to interact with DLLs.
+
+### student developer, US Geological Survey - Rolla, MO April 2005 - May 2006
+
+### developer, Quantiverge, Inc - Springfield, IL January 2006 - December 2011
+
+### technical sergeant, Missouri Air National Guard - Jefferson Barraks, MO July 1999 - July 2012
+
+Managed staff and produced training materials on common electronic troubleshooting and maintenance procedures. Installed and managed communications equipment, including upgrades, to support air power capabilities.
+
+Deployed in support of Operation Iraqi Freedom **April 2003 - August 2003**
 
 Awarded both the Missouri Commendation Medal and Two Air Force Commendation Medals
 
-Primary Specialty: Ground Radio and Satellite Communications Technician
-## EDUCATION* University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006## SKILLSRuby, Rails, Java, MySQL, OS X, C/C++, Linux, DHTML, CSS, AJAX, 2006 Time Person of the Year# OPEN SOURCE* Maintainer
+Primary Specialty: Ground Radio and Satellite Communications Technician
+
+## EDUCATION
+
+* University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006
+
+## SKILLS
+Ruby, Rails, Java, MySQL, OS X, C/C++, Linux, DHTML, CSS, AJAX, 2006 Time Person of the Year
+
+## OPEN SOURCE
+
+* Maintainer
   * GrovePi - Elixir hardware library
   * backpack-ht16k33 - JS library for LED matrix for Tessel
   * Riposte - rubygem
@@ -122,7 +157,10 @@ Primary Specialty: Ground Radio and Satellite Communications Technician
   * Rubygems
   * Rails
   * Git
-# Links* [LinkedIn][linkedin]
+
+## Links
+
+* [LinkedIn][linkedin]
 * [Github][github]
 * Blog: [Dirty Information][personal blog]
 * Podcast: [This Agile Life][podcast]
