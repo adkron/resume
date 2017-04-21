@@ -75,7 +75,7 @@
   * Reduce Technical Debt
 * _tech_: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML, jQuery, Resque
  
-### PODCAST CO-HOST, THIS AGILE LIFE ST. LOUIS, MO AUGUST 2012-PRESENTI provide content, direction, and sound system setup for This Agile Life. I am also one of the on airpersonalities.
+### PODCAST CO-HOST, THIS AGILE LIFE ST. LOUIS, MO AUGUST 2012-PRESENTI provide content, direction, and sound system setup for This Agile Life. I am also one of the on air personalities.
 
 ### MEETUP ORGANIZER, STL ELIXIR - SAINT LOUIS, MO FEBRUARY 2017-PRESENT
 ### MEETUP ORGANIZER, ROLLA RUBY - ROLLA, MO APRIL 2013-PRESENT### SENIOR RUBY DEVELOPER, THE ABLE FEW - ST. LOUIS, MO FEBRUARY 2013-AUG 2013I am responsible for growing the technical prowess and guiding ways to grow sustainable software while keeping customers delighted. I teach about software design, testing, and agile methodologies. I am also responsible for implementing customer requirements in software. This is a small company of nine employees and seven current projects. There are many challenges to being spread that thin so we all work on everything from design to implementation and deployment. My main technologies are Ruby, Rails, MySQL, Active::Record, Vagrant, Chef, SASS, HAML, Bootstrap, Bourbon, Neat, and whatever else is needed to get the job done.### MEETUP ORGANIZER, STL RUBY - ST. LOUIS, MO JANUARY 2012-PRESENTI do all the planning and most of the speaking at the Saint Louis Ruby Users’ Group. I really love beingable to teach and try to grow this group from the original incantation. We have been growing quite a bit and moved from one meeting a month to two. I’m currently in the process of trying to get more members to start doing some of the speaking.### SOFTWARE ENGINEER, ASYNCHRONY SOLUTIONS - ST. LOUIS, MO JULY 2007-FEBRUARY 2013Responsible for test driven development of Secure Naval Chat allowing XMPP, IRC, and an in housesecure chat protocol to be utilized on the same server while minimizing wire traffic and retaining chat history for later recall by the client. Also responsible for the client software and customer interaction while spending two trips aboard US Naval vessels. Utilized Java, Mina, and Eclipse RCP from **2007 - 2008**Developed internal Ruby on Rails application that handles accounting, project management, billing, employee management, time tracking, leave, etc. Responsible for keeping the site working with both Oracle and MySQL. Utilized TestUnit, Shoulda, and Webrat for test driven development. Used Prototype for UJS. **2008 - 2009**Developed Spring MVC 3 application to help farmers maximize their profits through crop insurance and futures markets. Utilized Prototype and Low Pro for UJS. Worked with a legacy DB2 database. Instrumental in utilizing JRuby and Cucumber for UAT development, and spent time updating the
@@ -97,7 +97,17 @@ Worked as a teacher and developer on a web application for insurance issuance an
 Awarded both the Missouri Commendation Medal and Two Air Force Commendation Medals
 
 Primary Specialty: Ground Radio and Satellite Communications Technician
-## EDUCATION* University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006## SKILLSRuby, Rails, Java, MySQL, OS X, C/C++, Linux, DHTML, CSS, AJAX, 2006 Time Person of the Year# OPEN SOURCEHelped in starting development of gitjour at RailsConf 2008. Made commits to Rails, Shoulda, activerecord-jdbc-adapter, Git, Mongoid, Webrat, MongoDB Cookbook, and Rubygems. Worked on hardware libraries for the Tessel and GrovePi.
+## EDUCATION* University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006## SKILLSRuby, Rails, Java, MySQL, OS X, C/C++, Linux, DHTML, CSS, AJAX, 2006 Time Person of the Year# OPEN SOURCE* Maintainer
+  * Riposte - rubygem
+  * GrovePi - Elixir hardware library
+  * backpack-ht16k33 - JS library for LED matrix for Tessel
+* Contributor
+  * Elixir
+  * ElixirALE
+  * Phoenix
+  * Rubygems
+  * Rails
+  * Git
 # Links* [LinkedIn][linkedin]
 * [Github][github]
 * Blog: [Dirty Information][personal blog]
