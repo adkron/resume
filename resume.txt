@@ -1,37 +1,15 @@
 # AMOS KING
 
-###### _amos@binarynoggin.com_ _573.263.2278_
+_amos@binarynoggin.com_
 
-## Agile Practitioner | Thought Leader | Web & Embedded Dev
+_573.263.2278_
+
+## Agile Practitioner | Thought Leader | Web & Embedded Developer
 
 Agile software developer with 10+ years of success working with and
 leading teams to develop quality software under changing requirements.
 Able to rapidly utilize new, leading edge technologies. Proven track
 record in developing trust with customers and within teams.
-
-## What other's say
-
-    ...natural mentor and leader, and I feel honored to have learned from
-    him. - Leah Russel
-
----
-
-    ...humble and approachable...invests time in making me better at
-    my job - Martina Vassileva
-
----
-
-    I also value his ideas for working as a team and for great
-    communication. Our conversations motivate me to be a better coder
-    and a better person, and provide the tools to do so. - Melch Chun
-
----
-
-    Amos is an inspiring leader and exceptional personal contributor. -
-    Oz DiGennro
-
-
-## WORK
 
 ### Binary Noggin, Owner/Developer - St. James, MO August 2013 - Present
 
@@ -42,7 +20,19 @@ constant communication and trust. Using test driven development and
 continuous delivery of working software that exceeds expectations and
 provides constant value is my priority.
 
-#### Projects
+## Technical Summary
+
+---
+
+Languages: Elixir, Erlang, Ruby, Javascript, Java
+
+Software/Tools: Rails, RSpec, Nerves, Phoenix, SideKiq, Resque, Node,
+Spring, HAML, Angular, Cucumber, Ruby-FFI, Resque, jQuery, SASS, Eclipse
+RCP, Mina
+
+Databases: PostgreSQL, Oracle, MySQL, MongoDB, Redis
+
+## Projects
 
 ##### Concordia Publishing House _2017_
 
@@ -53,7 +43,7 @@ provides constant value is my priority.
 ##### Procore _2015 - 2016_
 
 * Contributed to subsystems of large construction management platform
-* Mentored Developers and QA in Agile and dev practices
+* Mentored Developers and QA in Agile and development practices
 * _tech_: Ruby, Rails, Resque, SideKiq, RSpec, Elixir, PrincePDF, PostgreSQL, Elixir
 
 ##### Mercy _2014 - 2016_
@@ -75,9 +65,13 @@ provides constant value is my priority.
 * Managed a team of five subcontractors leading to successful multi-year contract
 * _tech_: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML, jQuery, Resque
 
-### The Able Few, Senior Ruby Developer - St. Louis, MO February 2013 - August 2013
+---
 
-### Asynchrony Solutions, Lead Software Engineer - St. Louis, MO July 2007 - February 2013
+### The Able Few
+Senior Ruby Developer - St. Louis, MO February 2013 - August 2013
+
+### Asynchrony Solutions
+Lead Software Engineer - St. Louis, MO July 2007 - February 2013
 
 #### Select Projects
 
@@ -85,7 +79,7 @@ provides constant value is my priority.
 
 ##### T1D - myglu.org, Tech Lead/Team manager _2010-2012_
 
-* _tech_: Ruby, Rails, MongoDB, HAML, SASS, RSpec, Cucumber, and many other tools
+* _tech_: Ruby, Rails, MongoDB, HAML, SASS, RSpec, Cucumber
 
 ##### Logistics Management - US Transportation Command - US Air Force, Senior Developer _2009 - 2010_
 
@@ -93,50 +87,54 @@ provides constant value is my priority.
 
 ##### ACE, Senior Developer _2008 - 2009_
 
-* _tech_: Oracle, MySQL, TestUnit, Shoula, Webrat, Javascript
+* _tech_: Oracle, MySQL, TestUnit, Shoulda, Webrat, Javascript
 
 ##### Mako Navy Chat, Developer and Customer liaison _2007 - 2008_
 
 * Customer liaison and software tester on board
-  * USS Rodney M Davis - frigate _2008_
+  * USS Rodney M Davis - Frigate _2008_
   * USS Alexandria - Nuclear Fast Attack Submarine _2009_
 * _tech_: Java, Mina, Eclipse RCP
 
 
-###### Long Long Ago
+## Additional Career Experience
 
-* developer, US Postal Service - St. Louis, MO May 2006 - July 2007
-* student developer, US Geological Survey - Rolla, MO April 2005 - May 2006
-* developer, Quantiverge, Inc - Springfield, IL January 2006 - December 2011
-* technical sergeant, Missouri Air National Guard - Jefferson Barracks, MO July 1999 - July 2012
+---
+
+* US Postal Service - St. Louis, MO, Developer _May 2006 - July 2007_
+* US Geological Survey - Rolla, MO, Developer _April 2005 - May 2006_
+* Quantiverge, Inc - Springfield, IL, Developer _January 2006 - December 2011_
+* Missouri Air National Guard - Jefferson Barracks, MO, Technical Sergeant _July 1999 - July 2012_
   * Managed Staff
   * Produced training materials
   * Installed and Managed Equipment
   * Deployed in support of Operation Iraqi Freedom April 2003 - August 2003
   * Ground Radio and Satellite Communications Technician
 
---- Education
+## Education / Awards / Presentations
+
+---
 
 * University Of Missouri - Rolla — BS Computer Science, Minor Mathematics 2006
 
---- Awards
+### Awards
 
   * Missouri Commendation Medal
   * Air Force Commendation Medal x 2
   * 2006 Time Person of the Year
 
---- Speaking
+### Speaking/Presentations
 
 * ElixirDaze 2017 - Live Like a Hippy
 * Ruby Remote Conf 2015 - The Route Less Traveled
 
---- Extras
+### Organization/Affiliations
 
-* podcast co-host, [This Agile Life][podcast] St. Louis, MO August 2012 - Present
-* organizer, STL Elixir - Saint Louis, MO February 2017 - Present
-* organizer, STL Ruby - St. Louis, MO January 2012 - Present
+* [This Agile Life][podcast] St. Louis, MO, Podcast Host _August 2012 - Present_
+* STL Elixir - Saint Louis, MO, Organizer _February 2017 - Present_
+* STL Ruby - St. Louis, MO, Organizer _January 2012 - Present_
 
---- Open source
+### Open source
 
 * Maintainer
   * GrovePi - Elixir hardware library
@@ -144,6 +142,32 @@ provides constant value is my priority.
   * Riposte - rubygem
 * Contributor
   * Elixir, ElixirALE, Phoenix
+
+## What other's say
+
+---
+
+    ...natural mentor and leader, and I feel honored to have learned from
+    him. - Leah Russel
+
+---
+
+    ...humble and approachable...invests time in making me better at
+    my job - Martina Vassileva
+
+---
+
+    I also value his ideas for working as a team and for great
+    communication. Our conversations motivate me to be a better coder
+    and a better person, and provide the tools to do so. - Melch Chun
+
+---
+
+    Amos is an inspiring leader and exceptional personal contributor. -
+    Oz DiGennro
+
+---
+
 
 [LinkedIn][linkedin] | [Github][github] | [Blog][personal blog]
 
