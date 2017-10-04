@@ -34,6 +34,14 @@ Databases: PostgreSQL, Oracle, MySQL, MongoDB, Redis
 
 ## Projects
 
+
+#####  Smartrent _2017_
+
+* Built a Zwave protocol handler using ElixrALE
+* Mentored developers in TDD and OTP
+* _tech_: Zipato, Zwave, Elixir, OTP, Nerves, Phoenix, HTTPoison,
+  ElixirALE
+
 ##### Concordia Publishing House _2017_
 
 * Built and tested open source component to generate PowerPoint files
