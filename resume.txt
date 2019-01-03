@@ -13,8 +13,8 @@ record in developing trust with customers and within teams.
 
 ### Binary Noggin, Owner/Developer - St. James, MO August 2013 - Present
 
-I work closely with customers as Agile practitioners to improve teams
-and products.  I believe in building amazing software through an
+I work closely with customers as Agile an practitioner to improve teams
+and products.  I believe in building the best software through an
 understanding of the “why” in the product. I find this “why” through
 constant communication and trust. Using test driven development and
 continuous delivery of working software that exceeds expectations and
@@ -26,7 +26,7 @@ provides constant value is my priority.
 
 Languages: Elixir, Erlang, Ruby, Javascript, Java
 
-Software/Tools: Rails, RSpec, Nerves, Phoenix, SideKiq, Resque, Node,
+Software/Tools: Propcheck, Rails, RSpec, Nerves, Phoenix, SideKiq, Resque, Node,
 Spring, HAML, Angular, Cucumber, Ruby-FFI, Resque, jQuery, SASS, Eclipse
 RCP, Mina
 
@@ -34,6 +34,12 @@ Databases: PostgreSQL, Oracle, MySQL, MongoDB, Redis
 
 ## Projects
 
+#####  Schneider Electric _2018_
+
+* Build Elixir back-end for Network Management Controller
+* Work with other developers in growing Elixir knowledge
+* Create interactive shell and commands for users
+* _tech_: Elixir, Docker, SMTP, Propcheck, Nerves, Yocto
 
 #####  Smartrent _2017_
 
@@ -129,7 +135,6 @@ Lead Software Engineer - St. Louis, MO July 2007 - February 2013
 
   * Missouri Commendation Medal
   * Air Force Commendation Medal x 2
-  * 2006 Time Person of the Year
 
 ### Speaking/Presentations
 
@@ -138,18 +143,22 @@ Lead Software Engineer - St. Louis, MO July 2007 - February 2013
 
 ### Organization/Affiliations
 
-* [This Agile Life][podcast] St. Louis, MO, Podcast Host _August 2012 - Present_
-* STL Elixir - Saint Louis, MO, Organizer _February 2017 - Present_
-* STL Ruby - St. Louis, MO, Organizer _January 2012 - Present_
+* KC Elixir - Kansas City, MO, Co-Organizer, _November, 2018 - Present_
+* [Elixir Outlaws][outlaws] St. Louis, MO, Podcast Host _August 2012 - Present_
+* [This Agile Life][agile_life] St. Louis, MO, Podcast Host _August 2012 - Present_
+* STL Elixir - Saint Louis, MO, Organizer _February 2017 - August 2018_
+* STL Ruby - St. Louis, MO, Organizer _January 2012 - August 2018_
 
 ### Open source
 
 * Maintainer
+  * BambooConfigAdapter - Runtime configuration for Bamboo Mailer
   * GrovePi - Elixir hardware library
+  * ScenicKeypad - Keypad for use with Elixir's OpenGL Scenic library
   * backpack-ht16k33 - JS library for LED matrix for Tessel
   * Riposte - rubygem
 * Contributor
-  * Elixir, ElixirALE, Phoenix
+  * Elixir, ElixirALE, Phoenix, Shoehorn, Propcheck, Cachex, Absinthe
 
 ## What other's say
 
@@ -183,4 +192,5 @@ Lead Software Engineer - St. Louis, MO July 2007 - February 2013
 [github]: http://github.com/adkron
 [personal blog]: http://dirtyinformation.com
 [business]: http://binarynoggin.com
-[podcast]: http://thisagilelife.com
+[outlaws]: https://elixiroutlaws.com
+[agile_life]: http://thisagilelife.com
