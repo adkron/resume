@@ -4,7 +4,7 @@ Hi
 Thanks for taking a look at my résumé.
 You're probably here to grab a copy in one of these formats:
 
-  * [HTML](https://adkron.github.io/resume)
+  * [HTML](http://adkron.github.io/resume)
   * [text](https://raw.githubusercontent.com/adkron/resume/master/resume.txt)
 
 -- Amos King
