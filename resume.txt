@@ -144,8 +144,8 @@ Lead Software Engineer - St. Louis, MO July 2007 - February 2013
 ### Organization/Affiliations
 
 * KC Elixir - Kansas City, MO, Co-Organizer, _November, 2018 - Present_
-* [Elixir Outlaws][outlaws] St. Louis, MO, Podcast Host _August 2012 - Present_
-* [This Agile Life][agile_life] St. Louis, MO, Podcast Host _August 2012 - Present_
+* [Elixir Outlaws][outlaws] Podcast Host _April 2018 - Present_
+* [This Agile Life][agile_life] Podcast Host _August 2012 - Present_
 * STL Elixir - Saint Louis, MO, Organizer _February 2017 - August 2018_
 * STL Ruby - St. Louis, MO, Organizer _January 2012 - August 2018_
 
