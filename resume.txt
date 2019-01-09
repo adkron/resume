@@ -13,7 +13,7 @@ record in developing trust with customers and within teams.
 
 ### Binary Noggin, Owner/Developer - St. James, MO August 2013 - Present
 
-I work closely with customers as Agile an practitioner to improve teams
+I work closely with customers as an Agile practitioner to improve teams
 and products.  I believe in building the best software through an
 understanding of the “why” in the product. I find this “why” through
 constant communication and trust. Using test driven development and
