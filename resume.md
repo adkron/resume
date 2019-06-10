@@ -34,6 +34,13 @@ Databases: PostgreSQL, Oracle, MySQL, MongoDB, Redis
 
 ## Projects
 
+#####  Toyota Connected
+
+* Build Elixir back-end to Toyota ride sharing
+* Work with other developers on testing and implementation of features
+* Pushed for changes to help increase communication
+* _tech_: Elixir, Docker, Propcheck, GraphQL
+
 #####  Schneider Electric _2018_
 
 * Build Elixir back-end for Network Management Controller
@@ -138,6 +145,7 @@ Lead Software Engineer - St. Louis, MO July 2007 - February 2013
 
 ### Speaking/Presentations
 
+* ElixirDaze 2018 - Hardware Without Hardware or Lightning Without Lightning
 * ElixirDaze 2017 - Live Like a Hippy
 * Ruby Remote Conf 2015 - The Route Less Traveled
 
@@ -165,23 +173,23 @@ Lead Software Engineer - St. Louis, MO July 2007 - February 2013
 ---
 
     ...natural mentor and leader, and I feel honored to have learned from
-    him. - Leah Russel
+    him. - Leah Russel - Procore
 
 ---
 
     ...humble and approachable...invests time in making me better at
-    my job - Martina Vassileva
+    my job - Martina Vassileva - Procore
 
 ---
 
     I also value his ideas for working as a team and for great
     communication. Our conversations motivate me to be a better coder
-    and a better person, and provide the tools to do so. - Melch Chun
+    and a better person, and provide the tools to do so. - Melch Chun - Procore
 
 ---
 
     Amos is an inspiring leader and exceptional personal contributor. -
-    Oz DiGennro
+    Oz DiGennro - Liaison
 
 ---
 
