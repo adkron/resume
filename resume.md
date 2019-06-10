@@ -34,7 +34,7 @@ Databases: PostgreSQL, Oracle, MySQL, MongoDB, Redis
 
 ## Projects
 
-#####  Toyota Connected
+#####  Toyota Connected _2019_
 
 * Build Elixir back-end to Toyota ride sharing
 * Work with other developers on testing and implementation of features
