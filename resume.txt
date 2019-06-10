@@ -11,7 +11,7 @@ leading teams to develop quality software under changing requirements.
 Able to rapidly utilize new, leading edge technologies. Proven track
 record in developing trust with customers and within teams.
 
-### Binary Noggin, Owner/Developer - St. James, MO August 2013 - Present
+### Binary Noggin, CEO/Principle - St. James, MO August 2013 - Present
 
 I work closely with customers as an Agile practitioner to improve teams
 and products.  I believe in building the best software through an
